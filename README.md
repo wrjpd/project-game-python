@@ -4,7 +4,7 @@ Projeto do curso **Programação do básico ao avançado**
 
 ## Descrição
 
-Devemos desenvolver uma aplicação onde ao ser inicialziada solicite ao usuário escolher o nível de dificuldade do jogo e após isso gera e apresenta, de forma aleatória, um cálculo para que possamos informar o resultado.
+Devemos desenvolver um jogo de operações matemáticas onde ao ser inicialziada solicite ao usuário escolher o nível de dificuldade do jogo e após isso gera e apresenta, de forma aleatória, um operação.
 
 Iremos limitar as operações em somar, subtrair e multiplicar.
 
